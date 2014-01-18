@@ -1,0 +1,9 @@
+cre sala1
+cre sala2
+cre otrasala
+sal
+eli sala1
+des actual
+sus otrasala
+usu
+sal
